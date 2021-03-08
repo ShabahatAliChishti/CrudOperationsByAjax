@@ -1,0 +1,114 @@
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\ApplicationInsights.config
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\csc.exe
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\System.Collections.Immutable.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\vbc.exe
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\VBCSCompiler.exe
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\VBCSCompiler.exe.config
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\CrudOperationsMvCByShabahat.dll.config
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\CrudOperationsMvCByShabahat.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\CrudOperationsMvCByShabahat.pdb
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Antlr3.Runtime.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.Web.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.WindowsServer.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.ApplicationInsights.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.Web.Infrastructure.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Newtonsoft.Json.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Helpers.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Mvc.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Optimization.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Razor.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.WebPages.Deployment.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.WebPages.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.WebPages.Razor.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\WebGrease.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.Web.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.WindowsServer.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.ApplicationInsights.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Helpers.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Mvc.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Optimization.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Razor.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.WebPages.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.WebPages.Deployment.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.WebPages.Razor.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Antlr3.Runtime.pdb
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Newtonsoft.Json.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\obj\Debug\CrudOperationsMvCByShabahat.csprojResolveAssemblyReference.cache
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\obj\Debug\CrudOperationsMvCByShabahat.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\obj\Debug\CrudOperationsMvCByShabahat.pdb
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\EntityFramework.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\EntityFramework.SqlServer.dll
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\EntityFramework.xml
+c:\users\chishti\documents\visual studio 2015\Projects\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\EntityFramework.SqlServer.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\ApplicationInsights.config
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\csc.exe
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\vbc.exe
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\CrudOperationsMvCByShabahat.dll.config
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\CrudOperationsMvCByShabahat.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\CrudOperationsMvCByShabahat.pdb
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Antlr3.Runtime.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\EntityFramework.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\EntityFramework.SqlServer.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.Web.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Newtonsoft.Json.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Helpers.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Mvc.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Optimization.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Razor.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.WebPages.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\WebGrease.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\EntityFramework.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\EntityFramework.SqlServer.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.Web.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Helpers.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Mvc.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Optimization.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.Razor.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.WebPages.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Antlr3.Runtime.pdb
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\bin\Newtonsoft.Json.xml
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\obj\Debug\CrudOperationsMvCByShabahat.csprojResolveAssemblyReference.cache
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\obj\Debug\CrudOperationsMvCByShabahat.dll
+C:\Users\Chishti\Desktop\CrudOperationsMvCByShabahat\CrudOperationsMvCByShabahat\obj\Debug\CrudOperationsMvCByShabahat.pdb
